@@ -1,0 +1,11 @@
+C:\Users\10ncockburn\AppData\Local\Temporary Projects\Simple_Edit\bin\Debug\Simple_Edit.exe
+C:\Users\10ncockburn\AppData\Local\Temporary Projects\Simple_Edit\bin\Debug\Simple_Edit.pdb
+C:\Users\10ncockburn\AppData\Local\Temporary Projects\Simple_Edit\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\10ncockburn\AppData\Local\Temporary Projects\Simple_Edit\obj\x86\Debug\Simple_Edit.Form1.resources
+C:\Users\10ncockburn\AppData\Local\Temporary Projects\Simple_Edit\obj\x86\Debug\Simple_Edit.Properties.Resources.resources
+C:\Users\10ncockburn\AppData\Local\Temporary Projects\Simple_Edit\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\10ncockburn\AppData\Local\Temporary Projects\Simple_Edit\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\10ncockburn\AppData\Local\Temporary Projects\Simple_Edit\obj\x86\Debug\Simple_Edit.exe
+C:\Users\10ncockburn\AppData\Local\Temporary Projects\Simple_Edit\obj\x86\Debug\Simple_Edit.pdb
+n:\visual studio 2010\Projects\Simple_Edit\Simple_Edit\obj\x86\Debug\Simple_Edit.exe
+n:\visual studio 2010\Projects\Simple_Edit\Simple_Edit\obj\x86\Debug\Simple_Edit.pdb
